@@ -64,12 +64,8 @@ cd ComfyUI
 
 ## 6. 使用方法
 
-1. **克隆本项目**：
-
-```bash
-git clone https://github.com/YourName/Pic2Vid.git
-cd Pic2Vid
-```
+1. **克隆本项目**
+   
 2.**准备 ComfyUI 与模型权重（见上节）**
 
 3.**运行后端服务**
@@ -85,5 +81,6 @@ python main.py
 - 点击生成视频
 
 5.**查看生成结果**
+
 视频生成完成后，可在 output/ 文件夹中和前端查看 MP4 文件
 
